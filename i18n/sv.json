@@ -47,14 +47,14 @@
   //GUI - Seed shop
   "HarvestPrice": "Skördepris",
   //Production
-  "Day": "day",
-  "Days": "days",
-  "Hours": "hours",
-  "Minutes": "minutes",
-  "MachineProcessing": "Processing",
-  "MachineDone": "Done",
-  "MachineReadyPrefix": "Ready: ",
-  "MachineReadyTomorrow": "Tomorrow!",
+  "Day": "dag",
+  "Days": "dagar",
+  "Hours": "timmar",
+  "Minutes": "minuter",
+  "MachineProcessing": "Arbetar",
+  "MachineDone": "Färdig",
+  "MachineReadyPrefix": "Klar: ",
+  "MachineReadyTomorrow": "Imorgon!",
   //Fish Pond
   "FishPondPopulation": "Population: {{current}}/{{max}}",
   "FishPondNextSpawn": "Next fish: {{days}} day(s)",
